@@ -1,14 +1,14 @@
 export default [
     {
         id : 1,
-        name : "Omar Goddi",
+        name : "sara Goddi",
         age : 27,
         image : 
         "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg"
     },
     {
         id : 2,
-        name : "Ahmed Goddi",
+        name : "eya Goddi",
         age : 21,
         image : 
         "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-3_rxtqvi.jpg"
@@ -29,7 +29,7 @@ export default [
     },
     {
         id : 5,
-        name : "Karim Gharbi",
+        name : "salma Gharbi",
         age : 40,
         image : 
         "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg"
